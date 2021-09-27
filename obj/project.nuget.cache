@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyvYBOXhTgySlkLT/+I2i8uKP76SMlrTXusTF50xPC7rMCoebFUYtilZXsIwC+ZCo4TU6Rc7loBpc4qfqSUlxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\pictureandfiles\\pictureandfiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
