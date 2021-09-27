@@ -48,6 +48,7 @@ namespace pictureandfiles
             this.dp.Location = new System.Drawing.Point(48, 64);
             this.dp.Name = "dp";
             this.dp.Size = new System.Drawing.Size(371, 367);
+            this.dp.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.dp.TabIndex = 0;
             this.dp.TabStop = false;
             // 
